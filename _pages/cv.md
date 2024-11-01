@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: True
 redirect_from:
@@ -9,9 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-# **Azure Cloud Engineer**
-
-### **Department of Agriculture**  
+### **Azure Cloud Engineer**
+**Department of Agriculture**  
 **04/2023 - Present**  
 **Washington, United States**
 
