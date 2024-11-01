@@ -9,56 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Azure Cloud Engineer
+Department of Agriculture
+04/2023 - Present Washington, United States
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Design and implement end-to-end cloud infrastructure solutions on Microsoft
+Azure, leveraging services such as Virtual Machines, Web Apps, and Kubernetes
+Lead governance and compliance efforts by implementing Azure policies, RoleBased Access Control (RBAC), and Multi-Factor Authentication (MFA) to ensure
+secure access
+Develop and execute disaster recovery and high-availability strategies, including
+the use of Availability Sets, Load Balancers, and Azure Backup
+Automate cloud deployments using ARM templates, Azure DevOps, and CI/CD
+pipelines, reducing manual effort and deployment time
+Monitor and maintain cloud performance using Azure Monitor, Log Analytics, and
+Application Insights, ensuring smooth operations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Junior Azure Engineer
+Department of Health
+09/2021 - 03/2023 Baltimore, United States
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Configured and deployed Azure Virtual Machines, App Services, and SQL
+Databases for clients, ensuring secure and scalable cloud environments
+Managed Azure Active Directory (AD), integrating with on-prem systems through
+Azure AD Connect, and implementing RBAC for secure identity management
+Optimized storage solutions using Azure Blob and File Storage, securing data
+through Access Keys and configuring Azure Storage Explorer for data
+management
+Assisted in designing and implementing Azure Backup and Site Recovery
+solutions to ensure seamless disaster recovery
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Cloud Support Engineer
+Quest Logic Solutions
+06/2020 - 08/2021 Riverdale, United States
+
+Provided cloud support and troubleshooting for Azure environments, handling
+issues with virtual networks, DNS, storage, and Azure App Services
+Assisted in deploying containerized applications via Azure Container Instances
+(ACI) and Docker, working closely with development teams to streamline
+deployments
+Managed continuous integration and continuous deployment (CI/CD) pipelines in
+Azure DevOps, improving deployment efficiency and reliability
+Monitored cloud resources using Azure Monitor and set up automated alerts for
+resource usage and health tracking
+
+Cloud Support Associate
+Hebrew Home
+01/2019 - 05/2020 Rockville, United States
+
+Supported Azure infrastructure by managing resource groups, subscriptions, and
+virtual networks, ensuring efficient use of cloud resources
+Configured basic Azure services, including virtual machines, role-based access
+control (RBAC), and network security groups (NSGs) for client projects
+Assisted with managing Azure AD, enabling secure access through MFA and
+RBAC configuration for small business clients
+Participated in cloud cost management activities, identifying opportunities to
+optimize resource usage and reduce unnecessary expenses
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
