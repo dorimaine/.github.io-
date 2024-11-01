@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dorimaine Tchamdjoci"
-  pronouns         : # example: "she/her"  
-  bio              : "Azure Cloud Engineer with 5+ years of experience in crafting and managing robust cloud infrastructures."
+  pronouns         : "she/her"  
+  bio              : "Azure Cloud Engineer Active Public Trust Security Clearance Azure Cloud Engineer with over 4 years of experience in designing, deploying, and maintaining cloud infrastructures. Specialized in Azure solutions, focusing on security, scalability, high availability, and cost optimization. Proficient in cloud networking, identity management, storage, and DevOps, with a proven ability to automate processes, manage resources effectively, and enhance business continuity."
   location         : "Maryland, USA"
   employer         : "Department of Health"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
