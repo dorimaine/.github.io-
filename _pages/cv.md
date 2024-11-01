@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://dorimaine.github.io/cv/
+permalink: /cv/
 author_profile: True
 redirect_from:
   - /resume
