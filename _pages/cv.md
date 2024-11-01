@@ -54,3 +54,14 @@ redirect_from:
 - **Configured basic Azure services**, including virtual machines, RBAC, and network security groups (NSGs) for client projects.
 - **Assisted with managing Azure AD**, enabling secure access through MFA and RBAC configuration for small business clients.
 - **Participated in cloud cost management activities**, identifying opportunities to optimize resource usage and reduce unnecessary expenses.
+
+### **Skills**
+
+- **Microsoft Azure Services**: Virtual Machines, Web Apps, Kubernetes, Azure Monitor, Log Analytics, Application Insights, Azure Blob Storage, Azure File Storage
+- **Cloud Security and Compliance**: Role-Based Access Control (RBAC), Multi-Factor Authentication (MFA), Azure Policies, Network Security Groups (NSGs)
+- **Disaster Recovery and High Availability**: Availability Sets, Load Balancers, Azure Backup, Site Recovery
+- **Identity and Access Management**: Azure Active Directory (AD), Azure AD Connect
+- **Automation and DevOps**: ARM Templates, Azure DevOps, Continuous Integration/Continuous Deployment (CI/CD) Pipelines, Docker, Azure Container Instances (ACI)
+- **Monitoring and Troubleshooting**: Azure Monitor, Automated Alerts, Cloud Resource Health Tracking
+- **Data Management**: SQL Databases, Access Keys, Azure Storage Explorer
+- **Cloud Cost Management**: Resource Optimization, Subscription Management
