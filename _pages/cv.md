@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "CV"
+permalink: https://dorimaine.github.io/cv/
+author_profile: True
+redirect_from:
+  - /resume
+---
 
 {% include base_path %}
 
