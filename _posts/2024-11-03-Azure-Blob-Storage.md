@@ -1,5 +1,5 @@
 ---
-title: 'Using Azure Blob Storage for Efficient Data Management"'
+title: 'Using Azure Blob Storage for Efficient Data Management'
 date: 2024-11-03
 permalink: /posts/2024/11/Azure-Blob-Storage/
 tags:
