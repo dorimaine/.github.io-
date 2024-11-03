@@ -1,11 +1,11 @@
 ---
 title: 'Introduction to Azure for Beginners '
 date: 2024-11-03
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/Into-to-Azure/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Microsoft Azure
+  - Cloud Computing
+  - Tips for Beginners
 ---
 
 This article aims to give a high-level overview of Azure’s core services, models, and benefits, designed to help cloud newcomers get acquainted with this powerful ecosystem. Let's break down the essentials of Azure, what it offers, and why it’s worth exploring.
@@ -114,3 +114,6 @@ Here are a few practical tips for getting the most out of your Azure learning ex
 Azure is a powerful and versatile cloud platform, offering an extensive range of services to build, deploy, and manage applications at scale. For cloud engineers, mastering Azure can open doors to new opportunities and innovative projects. Start small, stay curious, and enjoy exploring what Azure has to offer.
 
 **Happy cloud engineering!**
+
+**This is Dorimaine, your cloud enthousiastic lady from Doricloud!**
+
